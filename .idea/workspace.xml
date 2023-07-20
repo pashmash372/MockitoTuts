@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e6d35cc-131c-41c8-9a4d-438ab13b0b50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/BookingDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/BookingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pashmash/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test01FirstMocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test02DefaultReturnValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test03ReturningCustomValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test04MultipleThenReturnCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test05ThrowingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test06Matchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test07VerifyingBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test08Spies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test09MockingVoidMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test10ArgumentCaptors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test11Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test12BDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test13StrictStubbingh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test14StaticMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pashmash/Test15Answers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SqDG5IzzsHv7F70K5UrvaHq88j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/adrain/MockitoTuts/src/main/java/com/pashmash",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32198712"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\adrain\MockitoTuts\src\main\java\com\pashmash" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pashmash" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pashmash" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test15Answers.should_CalculateCorrectPrice">
+    <configuration name="Test11Annotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoTuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pashmash" />
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.Test11Annotations" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test12BDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoTuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pashmash" />
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.Test12BDD" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13StrictStubbingh.should_PayCorrectPrice_When_InputOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoTuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pashmash" />
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.Test13StrictStubbingh" />
+      <option name="METHOD_NAME" value="should_PayCorrectPrice_When_InputOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test14StaticMethods.should_CalculateCorrectPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoTuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pashmash" />
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.Test14StaticMethods" />
+      <option name="METHOD_NAME" value="should_CalculateCorrectPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test15Answers.should_CalculateCorrectPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoTuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pashmash" />
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.Test15Answers" />
+      <option name="METHOD_NAME" value="should_CalculateCorrectPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test15Answers.should_CalculateCorrectPrice" />
+        <item itemvalue="JUnit.Test14StaticMethods.should_CalculateCorrectPrice" />
+        <item itemvalue="JUnit.Test13StrictStubbingh.should_PayCorrectPrice_When_InputOK" />
+        <item itemvalue="JUnit.Test12BDD" />
+        <item itemvalue="JUnit.Test11Annotations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e6d35cc-131c-41c8-9a4d-438ab13b0b50" name="Changes" comment="" />
+      <created>1689865120828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689865120828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
